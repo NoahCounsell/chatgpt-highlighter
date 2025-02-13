@@ -1,0 +1,5 @@
+The buttons container has a class of: flex gap-x-1.5 text-token-text-primary ;
+
+the response is a plain p tag ;
+
+tailwind cdn =  <script src="https://cdn.tailwindcss.com"></script>
